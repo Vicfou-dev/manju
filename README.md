@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="apps/web/public/bun.png" alt="Manju" width="120" />
+  <img src="/bun.png" alt="Manju" width="120" />
 
   # Manju
 
